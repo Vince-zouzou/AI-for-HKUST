@@ -1,0 +1,6 @@
+streamlit
+bertopic
+sentence_transformers
+openai
+streamlit_chat
+scikit-learn
